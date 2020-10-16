@@ -19,4 +19,4 @@ Skrypty:
 - ScoreManager - klasa odpowiada za zarządzanie punktami oraz inicjację przemieszczających się po ekranie wartości punktowych
 - Scoreboard - klasa odpowiedzialna za zarządzaniem wynikiem.
 - FloatingScore - klasa odpowiada za przemieszczające się po ekranie wartości punktowe.
-- Utils - klasa udostępniona przez autora wyżej wymienionej książki jako narzędzie. Wykorzystana do wykonania płynnego ruchu statków w oparciu o krzywe Beziera;
+- Utils - klasa udostępniona przez autora wyżej wymienionej książki jako narzędzie do opracowania projektu.
